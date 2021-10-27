@@ -1,0 +1,77 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "ag-grid-community": "^26.0.0",
+    "ag-grid-react": "^26.0.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "calculate-text-width": "0.0.3",
+    "deepmerge": "^4.2.2",
+    "google-map-react": "^2.1.10",
+    "leaflet": "^1.5.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-collapsible": "^2.8.4",
+    "react-custom-checkbox": "^2.0.0",
+    "react-data-table-component": "^7.0.0-rc2",
+    "react-dom": "^16.8.6",
+    "react-fieldset": "^4.0.0",
+    "react-icons": "^4.2.0",
+    "react-image-lightbox": "^5.1.4",
+    "react-js-pagination": "^3.0.3",
+    "react-leaflet": "^2.7.0",
+    "react-leaflet-heatmap-layer": "^2.0.0",
+    "react-modal-image": "^2.5.0",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-spinners-css": "^2.0.1",
+    "react-spring": "^9.2.4",
+    "react-toastify": "^7.0.4",
+    "react-tooltip": "^4.2.21",
+    "redux": "^4.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0",
+    "reflexbox": "^4.0.6",
+    "styled-components": "^5.3.0",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint src/**/*.js src/**/*.jsx"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "favicons-webpack-plugin": "^5.0.2",
+    "prettier": "^2.3.2",
+    "webpack-pwa-manifest": "^4.3.0"
+  }
+}

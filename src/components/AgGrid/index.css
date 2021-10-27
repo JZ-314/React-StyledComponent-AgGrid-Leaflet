@@ -1,0 +1,9 @@
+/* cell style */
+.ag-theme-alpine .ag-cell, .ag-theme-alpine .ag-full-width-row .ag-cell-wrapper.ag-row-group {
+    line-height: 20px !important;
+    padding-right: 0 !important;
+}
+
+.ag-cell-wrap-text {
+    word-break: break-word !important;
+}
